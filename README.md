@@ -1,4 +1,4 @@
-# corsocpp
+# Corso C++
 Tutti i programmi del corso c++ di informatica.io verranno raccolti qui. <br>
 Se non lo hai ancora visto, ecco il link per il nostro corso: https://www.youtube.com/watch?v=ziNNQ2Bglqg&list=PL8ejs4ww2uWyZMdwLgNMnjln4A7o-xccj
 

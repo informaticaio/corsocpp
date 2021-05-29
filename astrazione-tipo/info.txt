@@ -1,0 +1,1 @@
+Tutti i sorgenti relativi all' astrazione di tipo verranno messi in questa cartella
